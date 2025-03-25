@@ -32,4 +32,4 @@ To learn more about this course, please check below course contents, all the vid
 
 1. [Introduction to Python Testing.](https://www.youtube.com/playlist?list=PLD06In0ejHWbdsPMqSJwE14cw4TF-avIL)
 2. [Testing in Python with pytest: Getting Started with pytest](https://www.youtube.com/playlist?list=PLD06In0ejHWbVWpckKF1oAVO5lmTj-IGf)
-3. [Testing in Python with pytest: Markers.](https://www.youtube.com/playlist?list=PLD06In0ejHWZ0OlzY0yH9mB2xPQIMBr4B)
+3. [Testing in Python with pytest: Markers - Optimizing Your Test Suite.](https://www.youtube.com/playlist?list=PLD06In0ejHWZ0OlzY0yH9mB2xPQIMBr4B)
