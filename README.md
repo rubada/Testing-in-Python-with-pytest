@@ -20,7 +20,6 @@ Start here and subscribe to receive notifications about our new courses.
 4. الأمن.
 5. الأداء.
 6. الصيانة.
-7. 
 ابدأ هنا واشترك لتلقي إشعارات حول دوراتنا الجديدة.
 ### Check our other courses:
 #### [Learn-Python-Professionally-Part-One](https://github.com/rubada/Learn-Python-Professionally-Part-One).
