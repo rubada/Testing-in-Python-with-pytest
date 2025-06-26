@@ -33,3 +33,4 @@ To learn more about this course, please check below course contents, all the vid
 2. [Testing in Python with pytest: Getting Started with pytest](https://www.youtube.com/playlist?list=PLD06In0ejHWbVWpckKF1oAVO5lmTj-IGf)
 3. [Testing in Python with pytest: Markers - Optimizing Your Test Suite.](https://www.youtube.com/playlist?list=PLD06In0ejHWZ0OlzY0yH9mB2xPQIMBr4B)
 4. [Testing in Python: Pytest Tutorials. Fixtures.](https://www.youtube.com/playlist?list=PLD06In0ejHWZ-4TPtSoFs2GM_XtBeIO4D)
+5. [Testing in Python: Pytest Tutorials. Buit-in Fixtures.](https://www.youtube.com/playlist?list=PLD06In0ejHWY_1zpcoQV4VmEHxuOejOQl)
