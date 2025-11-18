@@ -33,4 +33,6 @@ To learn more about this course, please check below course contents, all the vid
 2. [Testing in Python with pytest: Getting Started with pytest](https://www.youtube.com/playlist?list=PLD06In0ejHWbVWpckKF1oAVO5lmTj-IGf)
 3. [Testing in Python with pytest: Markers - Optimizing Your Test Suite.](https://www.youtube.com/playlist?list=PLD06In0ejHWZ0OlzY0yH9mB2xPQIMBr4B)
 4. [Testing in Python: Pytest Tutorials. Fixtures.](https://www.youtube.com/playlist?list=PLD06In0ejHWZ-4TPtSoFs2GM_XtBeIO4D)
-5. [Testing in Python: Pytest Tutorials. Buit-in Fixtures.](https://www.youtube.com/playlist?list=PLD06In0ejHWY_1zpcoQV4VmEHxuOejOQl)
+5. [Testing in Python: Pytest Tutorials. Built-in Fixtures.](https://www.youtube.com/playlist?list=PLD06In0ejHWY_1zpcoQV4VmEHxuOejOQl)
+6. [Testing in Python: Pytest Tutorials. Plugins and Hook Functions.](https://www.youtube.com/playlist?list=PLD06In0ejHWZYt0XZ8AYEafaknJo-8Zgg)
+7. [Testing in Python: Pytest Tutorials. Mocking.](https://www.youtube.com/playlist?list=PLD06In0ejHWacqmv8H9ERRSB64Y-pY_NK)
