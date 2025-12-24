@@ -36,3 +36,4 @@ To learn more about this course, please check below course contents, all the vid
 5. [Testing in Python: Pytest Tutorials. Built-in Fixtures.](https://www.youtube.com/playlist?list=PLD06In0ejHWY_1zpcoQV4VmEHxuOejOQl)
 6. [Testing in Python: Pytest Tutorials. Plugins and Hook Functions.](https://www.youtube.com/playlist?list=PLD06In0ejHWZYt0XZ8AYEafaknJo-8Zgg)
 7. [Testing in Python: Pytest Tutorials. Mocking.](https://www.youtube.com/playlist?list=PLD06In0ejHWacqmv8H9ERRSB64Y-pY_NK)
+8. [Testing in Python: Pytest Tutorials. Configuration Files.](https://www.youtube.com/playlist?list=PLD06In0ejHWZyLyl-YaYnOBjyr9EKrn0z)
